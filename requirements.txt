@@ -1,0 +1,6 @@
+streamlit>=1.40.0
+google-genai>=1.0.0
+streamlit-mic-recorder>=0.0.8
+pydub>=0.25.1
+gTTS>=2.5.0
+streamlit-autorefresh>=1.0.1

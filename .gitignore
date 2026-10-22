@@ -1,0 +1,17 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets - never upload API keys
+.streamlit/secrets.toml
+.env
+
+# Local database
+sales_bot.db
+*.db
+
+# Editor files
+.vscode/
